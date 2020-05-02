@@ -14,29 +14,34 @@ class Directory extends Component {
             sections:[{
                 title:'HATS',
                 imageUrl:hats,
-                id:1
+                id:1,
+                linkUrl:'hats'
             },
             {
                 title:'JACKETS',
                 imageUrl:jakets,
-                id:2
+                id:2,
+                linkUrl:''
             },
             {
                 title:'SNEAKERS',
                 imageUrl:sneakers,
-                id:3
+                id:3,
+                linkUrl:''
             },
             {
                 title:'WOMENS',
                 imageUrl:womens,
                 size:'large',
-                id:4
+                id:4,
+                linkUrl:''
             },
             {
                 title:'mens',
                 imageUrl:men,
                 size:'large',
-                id:5
+                id:5,
+                linkUrl:''
             },
             ]
 
@@ -46,8 +51,9 @@ class Directory extends Component {
         return (
             <div className="directory-menu">
                 {
-                    this.state.sections.map(({title,imageUrl,id,size}) => (
-                        <MenuItem key={id} title={title} imageUrl={imageUrl} size={size}/>
+                    // title,imageUrl,id,size,linkUrl --- is equivalent to otherSectionProps
+                    this.state.sections.map(({id, ...otherSectionProps }) => (
+                        <MenuItem key={id} {...otherSectionProps} />
                     ))
                 }
             </div>
