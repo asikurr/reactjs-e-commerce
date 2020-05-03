@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c123b12c-bf3b-41c0-b570-bda958be1c30" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +44,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Webproject\react-shop\src\pages" />
       <recent name="D:\Webproject\react-shop\src\pages\homepage" />
     </key>
   </component>
@@ -86,7 +88,8 @@
       <workItem from="1588329370722" duration="842000" />
       <workItem from="1588331352309" duration="2200000" />
       <workItem from="1588333649881" duration="10471000" />
-      <workItem from="1588411666078" duration="4237000" />
+      <workItem from="1588411666078" duration="7255000" />
+      <workItem from="1588486676822" duration="9276000" />
     </task>
     <servers />
   </component>
@@ -94,9 +97,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="12" key="SettingsEditor" timestamp="1588332153932">
+    <state x="184" y="12" key="SettingsEditor" timestamp="1588495291699">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="184" y="12" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1588332153932" />
+    <state x="184" y="12" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1588495291699" />
+    <state x="492" y="287" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588498368734">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="492" y="287" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1588498368734" />
   </component>
 </project>
