@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/menu-item/MenuItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/menu-item/MenuItem.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +35,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/asset" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -43,6 +45,9 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Webproject\react-shop\src\asset" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Webproject\react-shop\src\pages" />
       <recent name="D:\Webproject\react-shop\src\pages\homepage" />
@@ -89,7 +94,7 @@
       <workItem from="1588331352309" duration="2200000" />
       <workItem from="1588333649881" duration="10471000" />
       <workItem from="1588411666078" duration="7255000" />
-      <workItem from="1588486676822" duration="9276000" />
+      <workItem from="1588486676822" duration="12324000" />
     </task>
     <servers />
   </component>
