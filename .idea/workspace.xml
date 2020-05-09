@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c123b12c-bf3b-41c0-b570-bda958be1c30" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firebase/firebase.utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/firebase/firebase.utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/sign-in-sign-up-page/SignInSignUp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/sign-in-sign-up-page/SignInSignUp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/signIn/SignIn.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/signIn/SignIn.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +96,7 @@
       <workItem from="1588674875616" duration="6699000" />
       <workItem from="1588826468910" duration="10405000" />
       <workItem from="1588929327813" duration="5774000" />
-      <workItem from="1589003299076" duration="3927000" />
+      <workItem from="1589003299076" duration="5500000" />
     </task>
     <servers />
   </component>
