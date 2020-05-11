@@ -1,5 +1,6 @@
 import React from 'react';
 import {Link} from "react-router-dom";
+import {connect} from "react-redux";
 import {ReactComponent as Logo} from '../../asset/shop.svg'
 import {auth} from "../../firebase/firebase.utils";
 import './header.style.scss'
@@ -25,6 +26,10 @@ const HeaderMenu = ({currentUser}) => {
             </div>
         </div>
     );
-}
+};
 
-export default HeaderMenu;
+const mapStateToProps = state => ({
+   currentUser : state.user.current_user
+});
+
+export default connect(mapStateToProps)(HeaderMenu);
