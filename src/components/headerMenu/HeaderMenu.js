@@ -4,6 +4,7 @@ import {connect} from "react-redux";
 import {ReactComponent as Logo} from '../../asset/shop.svg'
 import {auth} from "../../firebase/firebase.utils";
 import './header.style.scss'
+import CartIcon from "../cartIcon/CartIcon";
 
 const HeaderMenu = ({currentUser}) => {
     return (
@@ -24,6 +25,10 @@ const HeaderMenu = ({currentUser}) => {
                         )
                 }
             </div>
+            <div className="">
+             <CartIcon/>
+            </div>
+
         </div>
     );
 };
