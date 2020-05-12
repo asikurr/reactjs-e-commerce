@@ -5,8 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/cartDropdown/CartDropDown.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/cartDropdown/CartDropDown.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/cartIcon/CartIcon.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/cartIcon/CartIcon.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/headerMenu/HeaderMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/headerMenu/HeaderMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/cartDropdown/cart-dropdown.style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/cartDropdown/cart-dropdown.style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/redux/cart/cart.selectors.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/cart/cart.selectors.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="SCSS File" />
         <option value="JavaScript File" />
+        <option value="SCSS File" />
       </list>
     </option>
   </component>
@@ -104,7 +103,7 @@
       <workItem from="1589109889411" duration="2364000" />
       <workItem from="1589167444241" duration="18728000" />
       <workItem from="1589195635543" duration="4384000" />
-      <workItem from="1589256288440" duration="9526000" />
+      <workItem from="1589256288440" duration="15734000" />
     </task>
     <servers />
   </component>

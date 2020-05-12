@@ -10,7 +10,10 @@
   top: 90px;
   right: 40px;
   z-index: 5;
-
+  .empty-message{
+    font-size: 16px;
+    margin: 80px auto;
+  }
   .cart-items {
     height: 240px;
     display: flex;
