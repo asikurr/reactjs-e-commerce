@@ -14,13 +14,7 @@ import {SelectCurrentUser} from "./redux/user/user.selectors"
 
 
 class App extends Component{
-    // constructor() {  // after config redux
-    //     super();
-    //
-    //     this.state={
-    //         current_user: null
-    //     }
-    // }
+
     unSubscribeFromAuth = null;
     componentDidMount() {
         const {setCurrentUser} = this.props
@@ -39,11 +33,7 @@ class App extends Component{
                             ...snapshot.data()
                         }
                     );
-                    // ,()=>{
-                    //     console.log(this.state)
-                    // }
-                    // )
-                    // console.log(snapshot.data())
+
                 });
             }
 
