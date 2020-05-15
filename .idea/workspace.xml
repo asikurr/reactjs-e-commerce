@@ -4,7 +4,11 @@
     <list default="true" id="c123b12c-bf3b-41c0-b570-bda958be1c30" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/directory/Directory.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/directory/Directory.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ShopPage/ShopPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ShopPage/ShopPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ShopPage/shop-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/shop/shop-data.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/redux/RootReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/RootReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/directoryReducer/directoryReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/directory/directoryReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/directoryReducer/directorySelector.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/directory/directorySelector.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,12 +48,13 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Webproject\react-shop\src\pages" />
-      <recent name="D:\Webproject\react-shop\src\pages\homepage" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Webproject\react-shop\src\asset" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Webproject\react-shop\src\redux\shop" />
+      <recent name="D:\Webproject\react-shop\src\pages" />
+      <recent name="D:\Webproject\react-shop\src\pages\homepage" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -103,7 +108,7 @@
       <workItem from="1589195635543" duration="4384000" />
       <workItem from="1589256288440" duration="16485000" />
       <workItem from="1589343961697" duration="432000" />
-      <workItem from="1589425468618" duration="12838000" />
+      <workItem from="1589425468618" duration="14558000" />
     </task>
     <servers />
   </component>
@@ -123,5 +128,17 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1588679604515" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/redux/shop/shop-data.js</url>
+          <line>2</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
