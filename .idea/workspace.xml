@@ -3,11 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="c123b12c-bf3b-41c0-b570-bda958be1c30" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/collectionItem/collection-item.style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/collectionItem/collection-item.style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/ShopPage/ShopPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ShopPage/ShopPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/directory/directoryReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/directory/directoryReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/shop/shop-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/shop/shop-data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/shop/shopSelector.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/shop/shopSelector.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/checkOutPage/CheckOutPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/checkOutPage/CheckOutPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/checkOutPage/checkout-page.style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/checkOutPage/checkout-page.style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="SCSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -37,7 +37,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/asset" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -111,7 +111,8 @@
       <workItem from="1589619651051" duration="1220000" />
       <workItem from="1589680140619" duration="8121000" />
       <workItem from="1590658141911" duration="1467000" />
-      <workItem from="1591010144783" duration="1389000" />
+      <workItem from="1591010144783" duration="2452000" />
+      <workItem from="1591163657584" duration="3869000" />
     </task>
     <servers />
   </component>
