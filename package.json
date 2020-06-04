@@ -19,9 +19,6 @@
     "redux-persist": "^6.0.0",
     "reselect": "^4.0.0"
   },
-  "devDependencies": {
-    "react-scripts": "3.0.0"
-  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
