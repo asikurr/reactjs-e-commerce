@@ -9,7 +9,7 @@ import CheckOutPage from "./pages/checkOutPage/CheckOutPage";
 
 import HeaderMenu from "./components/headerMenu/HeaderMenu";
 
-import {auth,createUserProfileDocument, addCollectionAndDocument} from "./firebase/firebase.utils"
+import {auth,createUserProfileDocument} from "./firebase/firebase.utils"
 
 import {connect} from "react-redux"
 import {setCurrentUser} from "./redux/user/user.action";
@@ -23,7 +23,7 @@ class App extends Component{
 
     unSubscribeFromAuth = null;
     componentDidMount() {
-        const {setCurrentUser,collectionArray} = this.props;
+        const {setCurrentUser} = this.props;
         this.unSubscribeFromAuth = auth.onAuthStateChanged(async userAuth=>{
             // this.setState({current_user:user});
             // createUserProfileDocument(user);

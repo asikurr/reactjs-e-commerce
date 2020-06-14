@@ -27,3 +27,13 @@ export const selectCollection = collectionUrlParams =>
         collections => (collections ? collections[collectionUrlParams] : null)
         // collections => collections.find(collection => collection.id === COLLECTION_ID_MAP[collectionUrlParams])
 );
+
+export const selectCollectionsFetching = createSelector(
+    [selectData],
+    shop=>shop.isFetching
+);
+
+export const selectCollectionLoaded = createSelector(
+  [selectData],
+  shop=>!!shop.collections
+);

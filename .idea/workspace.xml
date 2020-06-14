@@ -3,17 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="c123b12c-bf3b-41c0-b570-bda958be1c30" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/collectionPreview/CollectionPreview.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/collectionPreview/CollectionPreview.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/collectionPreview/collection-preview.style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/collectionPreview/collection-preview.style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/customButton/CustomButtom.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/customButton/CustomButtom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/customButton/custom-button.style.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/customButton/custom-button.style.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/customButton/custom-button.style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/customButton/custom-button.style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firebase/firebase.utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/firebase/firebase.utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/CollectionPage/CollectionPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/CollectionPage/CollectionPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/menu-item/MenuItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/menu-item/MenuItem.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/ShopPage/ShopPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ShopPage/ShopPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/shop/shop.action.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/shop/shop.action.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/shop/shop.type.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/shop/shop.type.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/redux/shop/shopReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/shop/shopReducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/redux/shop/shopSelector.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/shop/shopSelector.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +129,8 @@
       <workItem from="1591867751952" duration="6900000" />
       <workItem from="1591934718862" duration="8671000" />
       <workItem from="1591952034896" duration="7286000" />
-      <workItem from="1592031607315" duration="3139000" />
+      <workItem from="1592031607315" duration="4277000" />
+      <workItem from="1592121050577" duration="7022000" />
     </task>
     <servers />
   </component>
@@ -149,10 +150,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1591874175502" />
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1588679604515">
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1592124096633">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1588679604515" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1592124096633" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
